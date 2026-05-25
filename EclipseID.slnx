@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="EclipseID.AppHost/EclipseID.AppHost.csproj" />
+  <Project Path="EclipseID.Server/EclipseID.Server.csproj" />
+  <Project Path="frontend/frontend.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
