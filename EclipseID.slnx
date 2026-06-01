@@ -1,5 +1,8 @@
 <Solution>
   <Project Path="EclipseID.AppHost/EclipseID.AppHost.csproj" />
+  <Project Path="EclipseID.Application/EclipseID.Application.csproj" Id="d37d3eb9-8362-439a-b3ea-f6f4373ee384" />
+  <Project Path="EclipseID.Domain/EclipseID.Domain.csproj" Id="9708e8c7-7ad6-45a0-9b61-cec940f7261b" />
+  <Project Path="EclipseID.Infrastructure/EclipseID.Infrastructure.csproj" Id="3af7e3c2-dd52-469b-8fe6-500276791d17" />
   <Project Path="EclipseID.Server/EclipseID.Server.csproj" />
   <Project Path="frontend/frontend.esproj">
     <Build />
